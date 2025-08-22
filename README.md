@@ -1,6 +1,5 @@
 # 🌐 Webflow – Fullstack Trello Clone
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-13.5-blue?logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.5-blueviolet?logo=tailwind-css)](https://tailwindcss.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma)](https://www.prisma.io/)
@@ -68,14 +67,13 @@
 
 | Layer                | Technology                                         |
 |---------------------|---------------------------------------------------|
-| Frontend             | ![Next.js](https://img.shields.io/badge/Next.js-13.5-blue?logo=next.js) Next.js 13 + React + TypeScript |
+| Frontend             | ![Next.js](https://img.shields.io/badge/Next.js-15-blue?logo=next.js) Next.js 15 + React + TypeScript |
 | Styling              | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.5-blueviolet?logo=tailwind-css) Tailwind CSS & Shadcn UI |
-| Database             | ![MySQL](https://img.shields.io/badge/MySQL-8-blue?logo=mysql) MySQL |
+| Database             | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql) PostgreSQL (Neon) |
 | ORM                  | ![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?logo=prisma) Prisma |
 | Authentication       | ![Clerk](https://img.shields.io/badge/Clerk-Auth-orange?logo=clerk) Clerk |
 | Payments             | ![Stripe](https://img.shields.io/badge/Stripe-Payments-3b5998?logo=stripe) Stripe Checkout |
 | Image API            | ![Unsplash](https://img.shields.io/badge/Unsplash-API-lightgrey?logo=unsplash) Unsplash API |
-| Security             | ![Arcjet](https://img.shields.io/badge/Arcjet-Security-red) Rate Limiting & XSS/SQL Protection |
 | Deployment           | ![Vercel](https://img.shields.io/badge/Vercel-Hosting-black?logo=vercel) Vercel |
 
 ---
@@ -110,16 +108,10 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 💌 Contact
 
 **Soumojit Banerjee** – [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)  
-[Portfolio](https://soumojit.vercel.app) | [GitHub](https://github.com/soumojit622) | [LinkedIn](https://www.linkedin.com/in/soumojit-banerjee-4914b3228)
+[Portfolio](https://soumojit-black.vercel.app) | [GitHub](https://github.com/soumojit622) | [LinkedIn](https://www.linkedin.com/in/soumojit-banerjee-4914b3228)
 
 ---
 
