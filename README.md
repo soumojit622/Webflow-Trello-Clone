@@ -84,7 +84,7 @@
 
 | Dashboard | Boards | Pro Upgrade |
 |-----------|--------|-------------|
-| ![Dashboard](./public/screenshots/dashboard.png) | ![Boards](./public/screenshots/boards.png) | ![Pro Upgrade](./public/screenshots/pro-modal.png) |
+| ![Dashboard](https://github.com/soumojit622/Webflow-Trello-Clone/blob/master/public/dashboard.png) | ![Boards](https://github.com/soumojit622/Webflow-Trello-Clone/blob/master/public/boards.png) | ![Pro Upgrade](https://github.com/soumojit622/Webflow-Trello-Clone/blob/master/public/upgrade.png) |
 
 ---
 
